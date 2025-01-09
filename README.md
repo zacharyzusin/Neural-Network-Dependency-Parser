@@ -36,8 +36,8 @@ The project uses the CoNLL-X format, where each word in a sentence is represente
 6. Features (unused)
 7. Head word ID
 8. Dependency relation
-9. Deps (unused)
-10. Misc annotations (unused)
+9. Deps
+10. Misc annotations
 
 ## Model Architecture
 
